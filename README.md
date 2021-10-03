@@ -6,3 +6,5 @@ Official Submission for MLH Wild Hacks Hackathon
 
 ## Youtube Demo
 [Youtube](https://youtu.be/gI7mBwlSViM)
+
+## Note: the confidential tokens used here have all been revoked
